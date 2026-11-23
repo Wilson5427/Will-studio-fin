@@ -1,0 +1,12 @@
+WILL-STUDIO — PORTAFOLIO CORREGIDO
+
+Abre index.html en el navegador o con Live Server de VS Code.
+Los archivos HTML y estilos.css están ordenados en varias líneas para editarlos fácilmente.
+
+FOTOS:
+- imagenes/wilson-retrato.jpg: fotografía personal de Wilson, usada en Portada y Sobre mí.
+- imagenes/fotografia.jpg: trabajo de fotografía de estudio, usado en Mis trabajos.
+- imagenes/poster1.jpeg y poster2.jpeg: diseños de Alaya.
+
+Los videos de YouTube en trabajos.html necesitan conexión a Internet.
+En contacto.html reemplaza los datos de ejemplo por los tuyos.
